@@ -1,2 +1,2 @@
-# Tabuada-1
+# Desenvolvimento Básico
 Desenvolvendo Python igual um bebê
